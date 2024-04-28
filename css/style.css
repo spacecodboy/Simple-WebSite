@@ -1,0 +1,67 @@
+body {
+    background-color: #b8cae2;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:rgb(40, 40, 80)
+    
+}
+
+.nav_bar {
+
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.row {
+    background-color: #8a9aad;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.col-8 {
+    
+}
+
+.col-4 {}
+
+.col-3.nav_logo {
+}
+
+.col-9 {
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img_size {}
+
+.title_photo {
+    text-align: center;
+}
+
+.my_photo {
+    background: url(../images/me.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 500px;
+    border-radius: 20%;
+    overflow: hidden;
+}
+
+.nav_logo{
+    background: url(../images/logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
