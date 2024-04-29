@@ -15,7 +15,7 @@ body {
 }
 
 .row {
-    background-color: #8a9aad;
+    /* background-color: #8a9aad; */
     border-radius: 10px;
     display: flex;
     justify-content: center;
